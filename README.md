@@ -10,7 +10,7 @@
   
 
   
-  ##
+  
  
  
   ![Snake animation](https://github.com/GilbertoBiriguidin/GilbertoBiriguidin/blob/output/github-contribution-grid-snake.svg)
