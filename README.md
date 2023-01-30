@@ -5,9 +5,9 @@
 
 
  <div>
-  <a href="https://github.com/GilbertoBiriguidin">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GilbertoBiriguidin&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilbertoBiriguidin&layout=compact&langs_count=7&theme=synthwave"/>
+  <a href="https://github.com/BetoSytherine">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BetoSytherine&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BetoSytherine&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
@@ -29,6 +29,6 @@
   
  
  
-  ![Snake animation](https://github.com/GilbertoBiriguidin/GilbertoBiriguidin/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/BetoSytherine/BetoSytherine/blob/output/github-contribution-grid-snake.svg)
  
 
